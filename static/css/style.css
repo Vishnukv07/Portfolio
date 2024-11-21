@@ -379,3 +379,9 @@ padding:12px;
     font-size:2em;
     vertical-align:middle;
 }
+
+.textcard .textcardasset{
+  width: 40px; /* Adjust the width as needed */
+  height: auto;
+  margin-bottom: 10px;
+}
